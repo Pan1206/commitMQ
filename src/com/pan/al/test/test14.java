@@ -9,6 +9,7 @@ public class test14 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String[] strs=sc.nextLine().split(",");
+       //CEs
         int N=Integer.valueOf(strs[0]);
         int M=Integer.valueOf(strs[1]);
         String strs1=sc.nextLine().replace("[","");
