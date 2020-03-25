@@ -219,10 +219,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-38" />
-    <option name="y" value="-22" />
+    <option name="x" value="-39" />
+    <option name="y" value="-23" />
     <option name="width" value="1940" />
-    <option name="height" value="1103" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -230,8 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,46 +238,12 @@
               <item name="Al" type="b2602c69:ProjectViewProjectNode" />
               <item name="Al" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Al" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Al" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Al" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Al" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Al" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Al" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Al" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Al" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pan" type="462c0819:PsiDirectoryNode" />
-              <item name="al" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Al" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Al" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pan" type="462c0819:PsiDirectoryNode" />
-              <item name="al" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -595,6 +560,7 @@
       <workItem from="1580888052019" duration="2159000" />
       <workItem from="1580973440873" duration="1751000" />
       <workItem from="1580978363218" duration="923000" />
+      <workItem from="1581149220479" duration="294000" />
     </task>
     <task id="LOCAL-00001" summary="个人编程题目集">
       <created>1580888801796</created>
@@ -624,7 +590,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580978952310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="合并分支">
+      <created>1580983069128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580983069128</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -660,7 +633,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="786291000" />
+    <option name="totallyTimeSpent" value="787300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -673,64 +646,39 @@
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.21108742" side_tool="true" weight="0.5436464" />
       <window_info anchor="bottom" id="JRebel Console" order="13" sideWeight="0.21268657" side_tool="true" weight="0.22206096" />
       <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.49836066" weight="0.32995737" />
-      <window_info anchor="bottom" id="JRebel Executor" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.78731346" weight="0.110497236" />
+      <window_info anchor="bottom" id="JRebel Executor" order="12" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32994187" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.78731346" weight="0.110497236" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19622093" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944752" visible="true" weight="0.2124665" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944752" visible="true" weight="0.21514745" />
       <window_info id="JRebel" order="6" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" sideWeight="0.5005525" side_tool="true" weight="0.18443497" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4967213" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.2044199" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.21108742" side_tool="true" weight="0.5436464" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944752" visible="true" weight="0.2124665" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5032787" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19622093" />
-      <window_info id="Structure" order="1" sideWeight="0.5005525" side_tool="true" weight="0.18443497" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.49836066" weight="0.32995737" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.2044199" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="JRebel Console" order="13" sideWeight="0.21268657" side_tool="true" weight="0.22206096" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="JRebel Executor" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32994187" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4967213" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.12154696" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.78731346" weight="0.110497236" />
-      <window_info id="JRebel" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32707182" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5032787" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.12154696" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4967213" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="JRebel" order="6" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7889126" weight="0.22651933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5032787" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4967213" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -753,6 +701,7 @@
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Structure" order="1" sideWeight="0.5005525" side_tool="true" weight="0.18443497" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5032787" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32928178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23093922" />
     </layout-to-restore>
@@ -794,7 +743,8 @@
     <MESSAGE value="增加属性" />
     <MESSAGE value="增加catoyID属性" />
     <MESSAGE value="增加you属性" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加you属性" />
+    <MESSAGE value="合并分支" />
+    <option name="LAST_COMMIT_MESSAGE" value="合并分支" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -5,4 +5,5 @@ public class MasterTest {
     private int catoyID;
 
     public long you;
+    public static String m;
 }
